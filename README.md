@@ -1,2 +1,1 @@
-# study-coding-test
-코테 공부방
+# 다함께 공부합시다
